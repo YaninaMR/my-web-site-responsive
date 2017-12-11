@@ -191,6 +191,9 @@ h3{
   color: #4e94fc;
  	
 }
+.container {
+    margin: 0 25px;
+}
 
 /* menú hamburguesa */
 .main-hamburger {
